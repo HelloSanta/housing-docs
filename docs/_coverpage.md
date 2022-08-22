@@ -6,7 +6,7 @@
 
 > 最簡單使用的網站，一看就懂
 
-[GitHub](https://github.com/HelloSanta/template-docs)
+[GitHub](https://github.com/HelloSanta/housing-docs)
 [開始閱讀](#聖誕老人模板使用手冊)
 
 <!-- 背景色 -->

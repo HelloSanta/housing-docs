@@ -1,18 +1,15 @@
-## 主題
-測試內容
+# 聖誕老人模板使用手冊 
+<small>For 住宅學會網站</small>
+## 目的
 
+提供使用者學會如何使用網站後台功能
 
-## 製作方法
+## 版本
+v1.1
 
-1. 安裝docsify
-```shell
-$ npm i docsify-cli -g
-```
+## 聯絡我們
 
-2. compile 然後觀看Preview
-```shell
-$ docsify serve docs
-```
-
-## 參考資料
-1. https://docsify.js.org/#/
+聖誕老人股份有限公司
+台北市大安區仁愛路四段345號4弄47號2樓  
+| Tel. 02-2772-1225 | Fax. 02-2752-9267  
+Copyright © 2020 聖誕老人股份有限公司All rights reserved
