@@ -1,5 +1,6 @@
 * [**1. 網站後台登入**](1-workbench-login.md)
-* [**2. Workbench**](2-workbench.md)
+* [**2. Workbench工具列**](2-workbench.md)
+    * [2.1 My Workbench](2-1-workbench-myworkbench.md)
 * [**3. 管理**](3-manage.md)
     * [3.1 新增內容](3-1-manage-create-content.md)
     * [3.2 管理分類](3-2-manage-taxonomy.md)
