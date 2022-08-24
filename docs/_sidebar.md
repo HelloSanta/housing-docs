@@ -13,6 +13,7 @@
         * [3.3.1 新增選單](3-3-1-manage-create-menu.md)
         * [3.3.2 編輯選單](3-3-2-manage-edit-menu.md)
         * [3.3.3 刪除選單](3-3-3-manage-delete-menu.md)
+    * [3.4 管理使用者](3-4-manage-user.md)
 * [**4. 使用者資訊**](4-user.md)
     * [4.1 檢視使用者資訊](4-1-user-info.md)
     * [4.2 編輯設定檔](4-2-user-setting.md)
