@@ -14,11 +14,11 @@
 
 #### 【如果忘記密碼，以下提供兩種方式處理】
 **● 方式一**
-登入畫面中，點選重設你的密碼頁籤，請輸入當初由Hellosanta創立帳號的電子郵件地址，按下Submit，系統會自動發送密碼至信箱。
+登入畫面中，點選重設你的密碼頁籤，請輸入當初由 Hellosanta 創立帳號的電子郵件地址，按下 Submit，系統會自動發送密碼至信箱。
 ![](/_image/workbench/fSmmjpf.png)
 
 **● 方式二**
-請立即洽詢Hellosanta服務團隊
+請立即洽詢 Hellosanta 服務團隊
 Email：service@hellosanta.com.tw
 聯絡電話：02-2772-1225
 上班時間為：10:00～19:00
