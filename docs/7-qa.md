@@ -19,6 +19,8 @@
 [● 如果刪除分類，原本的文章會不會不見](3-2-3-manage-delete-taxonomy?id=【如果刪除分類，原本的文章會不會消失？】)  
 [● 新增次分類會同時新增到主選單嗎](3-2-1-manage-create-taxonomy?id=【新增次分類會同時自動連動到主選單的分類嗎？】)  
 [● 新增次分類會同時新增到footer嗎](3-2-1-manage-create-taxonomy?id=【新增次分類會同時自動連動到footer的選單嗎？】)  
+[● 若刪除卷數分類，底下的文章會被刪掉嗎](3-2-b-manage-taxonomy-issue_number?id=【若刪除卷數分類，底下的文章會被刪掉嗎？】)  
+
 
 ### 4.《主選單相關問題》
 [● 新增選單會同時新增到footer嗎](3-3-manage-menu?id=【新增選單會同時自動連動到footer的選單嗎？】)  

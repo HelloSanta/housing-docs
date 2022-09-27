@@ -7,7 +7,7 @@
 ＊ 符號為必填欄位  
 - **頁面顯示方式**
 ![](/_image/manage/content-create-journal-date.png)
-1. 點我：[期刊類別新增方式](3-1-b-manage-create-issue_number.md)  
+1. 點我：[期刊類別新增方式](3-2-b-manage-taxonomy-issue_number.md)  
     - 卷和期的新增方式
 2. 點我：[圖片集錦欄位說明](3-1-1-manage-create-field?id=_4-圖片集錦：)  
     - 檔案格式大小請遵照檔案上傳限制  
