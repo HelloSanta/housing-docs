@@ -8,7 +8,9 @@ v1.0
 
 ## 聯絡我們
 
-聖誕老人股份有限公司
+**聖誕老人股份有限公司**  
 台北市大安區仁愛路四段345號4弄47號2樓  
+週一至週五 10:00-19:00  
+service@hellosanta.com.tw  
 | Tel. 02-2772-1225 | Fax. 02-2752-9267  
-Copyright © 2020 聖誕老人股份有限公司All rights reserved
+<!-- Copyright © 2020 聖誕老人股份有限公司All rights reserved -->
