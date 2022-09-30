@@ -13,7 +13,7 @@
 [● 如何刪除文章](3-1-3-manage-delete-content.md)  
 
 ### 3.《次分類相關問題》
-[● 如何新增分類](7-3-qa-create-taxonomy.md)  
+[● 如何新增分類](3-2-1-manage-create-taxonomy)  
 [● 如何修改分類](3-2-2-manage-edit-taxonomy.md)  
 [● 如何排序分類](3-2-4-manage-sort-taxonomy.md)  
 [● 如果刪除分類，原本的文章會不會不見](3-2-3-manage-delete-taxonomy?id=【如果刪除分類，原本的文章會不會消失？】)  
